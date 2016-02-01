@@ -15,19 +15,32 @@ div{
 /*Rojo*/
 .uno{
 	background-color: #ee3e64;
-	
+	position: absolute;
+	left: 0%;
+	top: 0%;
 }
 
 /*Azul*/
 .dos{
 	background-color: #4aaccf;
-	position: relative;	
-	left:100%;
+	position: absolute;	
+	right: 0%;
+	top: 0%;
 	
 }
 
 /*Verde*/
 .tres{
 	background-color: #b7d84b;
-	
+	position: absolute;
+	left: 0%;
+	bottom: 0%;
+}
+
+/*Amarillo*/
+.cuatro{
+	background-color: yellow;
+	position: absolute;
+	right: 0%;
+	bottom: 0%;
 }
