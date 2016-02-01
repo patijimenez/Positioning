@@ -1,6 +1,6 @@
 body{
-	margin: 0;
-	padding: 0;
+	margin: 0px;
+	padding: 0px;
 }
 
 
@@ -15,32 +15,32 @@ div{
 /*Rojo*/
 .uno{
 	background-color: #ee3e64;
-	position: absolute;
-	left: 0%;
-	top: 0%;
+	left: 0px;
+	top: 0px;
 }
 
 /*Azul*/
 .dos{
 	background-color: #4aaccf;
 	position: absolute;	
-	right: 0%;
-	top: 0%;
+	left:200px;
 	
 }
 
 /*Verde*/
 .tres{
 	background-color: #b7d84b;
-	position: absolute;
-	left: 0%;
-	bottom: 0%;
+	left: 0px;
+	bottom: 0px;
 }
 
 /*Amarillo*/
 .cuatro{
 	background-color: yellow;
-	position: absolute;
-	right: 0%;
-	bottom: 0%;
+	right: 0px;
+	bottom: 0px;
+}
+
+.static{
+	position: static;
 }
