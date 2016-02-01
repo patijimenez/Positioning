@@ -8,17 +8,24 @@ body{
 div{
 	width:200px;
 	height:200px;
-	position: static;
+	position: relative;
 }
 
+/*Rojo*/
 .uno{
 	background-color: #ee3e64;
+	margin-top: 5%;
 }
 
+/*Azul*/
 .dos{
 	background-color: #4aaccf;
+	left: 5%;
+	margin-top: 2%;
 }
 
+/*Verde*/
 .tres{
 	background-color: #b7d84b;
+	left: 40%;
 }
